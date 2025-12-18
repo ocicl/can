@@ -1,0 +1,9 @@
+* can
+
+A role-based access right control library.
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/fukamachi/can.git |
+| commit  | 24d2511                                |
+| systems | can                                    |
+|---------+----------------------------------------|
