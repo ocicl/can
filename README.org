@@ -1,9 +1,10 @@
 * can
 
-A role-based access right control library.
+A role-based access control library for Common Lisp.
 
-|---------+----------------------------------------|
-| source  | git:https://github.com/fukamachi/can.git |
-| commit  | 24d2511                                |
-| systems | can                                    |
-|---------+----------------------------------------|
+|---------+--------------------------------------------|
+| source  | git:https://github.com/fukamachi/can.git  |
+| commit  | 24d2511                                    |
+| systems | can                                        |
+|---------+--------------------------------------------|
+
